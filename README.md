@@ -1,3 +1,4 @@
+![image](./Images/SampleScore.gif)
 # TextureNumber Package
 스포츠 게임 결과 화면에서 점수표시를 하고 별도의 연출 없이<br>
 점수가 Lerp 하게 오르는 Unity Pakage 입니다.
